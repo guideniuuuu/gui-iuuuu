@@ -10,8 +10,7 @@ const CONFIG = {
     btnReply: 'đây là lời đã suy nghĩ <3, tiếp tục',
     reply: '<333',
     mess: 'Quốc còn thương iuuuu nhiều lắm ',
-    messDesc: 'Quốc nhớ iuuuu lắm.',
-    btnAccept: 'đây là những gì Quốc đã suy nghĩ 2 ngày qua
-    nếu nó hog chạy được iuuu có thể vô trang cá nhân của Quốc dc ko ?',
+    messDesc: 'Quốc nhớ iuuuu lắm , nếu nó hog típ được iuuuu vô trang cá nhân của Quốc dc hog? .',
+    btnAccept: 'đây là những gì Quốc đã suy nghĩ 2 ngày qua ',
     messLink: 'https://www.facebook.com/Ba0Qu0cthw/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
