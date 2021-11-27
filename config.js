@@ -11,6 +11,7 @@ const CONFIG = {
     reply: '<333',
     mess: 'Quốc còn thương iuuuu nhiều lắm ',
     messDesc: 'Quốc nhớ iuuuu lắm.',
-    btnAccept: 'đây là những gì Quốc đã suy nghĩ 2 ngày qua',
+    btnAccept: 'đây là những gì Quốc đã suy nghĩ 2 ngày qua
+    nếu nó hog chạy được iuuu có thể vô trang cá nhân của Quốc dc ko ?',
     messLink: 'https://www.facebook.com/Ba0Qu0cthw/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
